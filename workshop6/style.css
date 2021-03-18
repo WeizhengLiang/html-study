@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+    width: 300px;
+    height: 65px;
+    display: block;
+    text-indent: 2em;
+    color: white;
+    line-height: 65px;
+}
+
+a:hover {
+    background-color: #ffa500;
+}
+
+a:active{
+    color: blue;
+}
+
+div {
+    width: 300px;
+    height: 455px;
+    background-color: grey;
+}
