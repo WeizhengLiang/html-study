@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #f5f5f5;
+}
+
+
+.box {
+    width: 260px;
+    height: 390px;
+    border: 1.5px solid rgba(191, 191, 191, .3);
+    background-color: #fff;
+    margin: 100px auto;
+}
+
+img {
+    width: 260px;
+}
+
+
+.review {
+    font-size: 13px;
+    padding: 12px 15px;
+}
+
+.appraise a{
+    text-decoration: none;
+    color: grey;
+    font-size: 11px;
+    padding: 10px 15px;
+}
+
+.info {
+    padding: 5px 15px;
+    font-size: 13px;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+
+em {
+    font-style: normal;
+    color: grey;
+}
+
+.info a{
+    text-decoration: none;
+    color: black;
+}
+
+.info span {
+    color: orange;
+}
